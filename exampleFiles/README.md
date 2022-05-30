@@ -5,7 +5,7 @@ format through the terminal</p>
 
 # Command
 
-	bash script<number>.sh <inputfilename>.txt
+	bash script<number>.sh <inputfileDirectory>.txt
 
 # Results
 
