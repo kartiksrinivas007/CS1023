@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dir=./$1
+dir=$1
 dir_final=./formatted_students.txt
 #now delete all previous contents of the file using sed
 sed -i '/^/d' $dir_final 
